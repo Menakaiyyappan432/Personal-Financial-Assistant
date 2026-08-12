@@ -9,7 +9,7 @@ A sleek Full-Stack Expense Tracker built with Python (FastAPI) and JavaScript. T
 - Data Persistence: Uses JSON file handling for local storage.
 
 🛠️ Tech Stack:
-- Language:Python 3.x
+- Language:Python
 - Framework: FastAPI
 - Frontend: HTML5, CSS3, JavaScript (Fetch API)
 - Server: Uvicorn

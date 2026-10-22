@@ -18,3 +18,14 @@ Key Features :
  🌐 Frontend: HTML, CSS (Glassmorphism & Neon Accents), JavaScript (Fetch API)
  🦄 Server: Uvicorn
  📁 Data Storage: JSON File Storage
+
+ 📸 Output
+
+Dashboard
+[Dashboard](dashboard.png.png)
+
+Expense List
+[Expense List](expenses-list.png.png)
+
+CSV Export
+[CSV Export](csv-export.png.png)

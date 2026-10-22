@@ -19,13 +19,13 @@ Key Features :
  🦄 Server: Uvicorn
  📁 Data Storage: JSON File Storage
 
- 📸 Output
+## 📸 Output
 
-Dashboard
-[Dashboard](dashboard.png.png)
+### Dashboard
+![Dashboard](dashboard.png.png)
 
-Expense List
-[Expense List](expenses-list.png.png)
+### Expense List
+![Expense List](expenses-list.png.png)
 
-CSV Export
-[CSV Export](csv-export.png.png)
+### CSV Export
+![CSV Export](csv-export.png.png)
